@@ -8,3 +8,5 @@ block add {word}
 ### if you want admins to be able to freely use forbidden words, remove the quotation marks in lines 57-58
 
 #### The bots needs 'Manage Messages' permission
+
+#### It saves logs in the database. In the table 'logs'
